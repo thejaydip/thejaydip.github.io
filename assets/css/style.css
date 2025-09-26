@@ -188,7 +188,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a:hover span, .nav-menu .active span, .nav-menu .active:focus span, .nav-menu li:hover > a span {
   color: #fff;
 }
-.nav-menu a:hover, .nav-menu li:hover > a, .nav-menu a.active {
+.nav-menu a:hover, .nav-menu li:hover > a {
   width: 100%;
   color: #fff;
 }
