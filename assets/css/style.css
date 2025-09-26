@@ -482,6 +482,8 @@ section {
   overflow: hidden;
   z-index: 1;
   background: rgba(69, 80, 91, 0.8);
+  border-radius: 5px;
+  box-shadow: 0 0 30px rgba(0,0,0,.08);
 }
 .portfolio .portfolio-wrap::before {
   content: "";
@@ -553,7 +555,7 @@ section {
   z-index: 4;
 }
 .portfolio .portfolio-wrap .portfolio-links i {
-  color: #45505b;
+  color: #ffffff;
   margin: 0 2px;
   font-size: 28px;
   display: inline-block;
@@ -568,6 +570,7 @@ section {
   right: 0;
   bottom: 0;
   opacity: 1;
+  border-radius: 5px;
 }
 .portfolio .portfolio-wrap:hover .portfolio-info {
   opacity: 1;
